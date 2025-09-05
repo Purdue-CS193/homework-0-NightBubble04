@@ -6,11 +6,11 @@
 
 My Favorite Things about CS193
 
--only one credit
--attendence is not mandatory
--HW#1 got postponed 
--it is a computer science course
--I love GitHub!
+- only one credit
+- attendence is not mandatory
+- HW#1 got postponed 
+- it is a computer science course
+- I love GitHub!
 
 
 
